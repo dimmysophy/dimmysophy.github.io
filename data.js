@@ -23,7 +23,7 @@ window.SITE = {
       email: "agubatai@veritas.edu.ng",
       github: "https://github.com/Dimmysophy",
       linkedin: "https://www.linkedin.com/in/immaculate-ogbuagu-824746b3",
-      scholar: "",   // Google Scholar profile URL
+      scholar: "https://scholar.google.com/citations?user=-pgn_ukAAAAJ",
       orcid: "https://orcid.org/0000-0001-9683-4963",
       researchgate: ""
     }
